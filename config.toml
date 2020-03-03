@@ -5,7 +5,7 @@ LanguageCode = "en-us"
 Title = "JU***BAR***LY"
 paginate = 5
 # DisqusShortname = "YOUR_SHORT_NAME_HERE"
-Copyright = "All rights reserved - 2019"
+Copyright = "All rights reserved - 2020"
 canonifyurls = true
 enableEmoji = true
 comments = true
@@ -23,18 +23,14 @@ comments = true
     url = "/categories/art-and-music/"
 
 [[menu.main]]
-    name = "Data Science"
-    url = "/categories/data-science/"
-
-[[menu.main]]
     name = "Miscellaneous"
     url = "/categories/miscellaneous/"
 
 [params]
-    description = "Wei-Chun Chu's Blog"
+    description = "Jubarly Studio"
     cover = "images/sun-moon_lake.jpg"
 
-    author = "Wei-Chun Chu"
+    author = "Jubarly Studio"
     authorlocation = "Berlin, Germany"
     # googleAnalyticsUserID = "UA-79101-12"
 
