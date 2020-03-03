@@ -2,7 +2,7 @@ theme = "hugo-theme-casper"
 BaseUrl = "/"
 publishDir = "../wcchu.github.io/"
 LanguageCode = "en-us"
-Title = "JU***BAR***LY"
+Title = "Jubarly Studio"
 paginate = 5
 # DisqusShortname = "YOUR_SHORT_NAME_HERE"
 Copyright = "All rights reserved - 2020"
@@ -15,19 +15,19 @@ comments = true
     url = "/about/"
 
 [[menu.main]]
+    name = "Artist Statement"
+    url = "/artist-statement/"
+
+[[menu.main]]
     name = "Tags"
     url = "/tags/"
 
 [[menu.main]]
-    name = "Art and Music"
-    url = "/categories/art-and-music/"
-
-[[menu.main]]
-    name = "Miscellaneous"
-    url = "/categories/miscellaneous/"
+    name = "Categories"
+    url = "/categories/"
 
 [params]
-    description = "Jubarly Studio"
+    # description = "Jubarly Studio"
     cover = "images/sun-moon_lake.jpg"
 
     author = "Jubarly Studio"
