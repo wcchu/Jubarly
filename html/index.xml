@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jubarly Studio</title>
+    <link>/</link>
+    <description>Recent content on Jubarly Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved - 2020</copyright>
+    <lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Dr. Wei-Chun Chu is a painter, physicist, data scientist, and musician, now based in Berlin. He was born in Taiwan and has been living and working in the U.S., Ireland, and Germany. He is a senior data scientist of Fit Analytics GmbH, a sizing solution provider for online fashion shops.</description>
+    </item>
+    
+    <item>
+      <title>Artist statement</title>
+      <link>/artist-statement/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/artist-statement/</guid>
+      <description>Jubarly (Dr. Wei-Chun Chu) is a Berlin-based visual artist. His art digs into different forms of interactions between light and materials, such as transmission, reflection, diffusion etc, in both realistic and abstract settings.
+He studied physics and optics and worked in Taiwan, US, and Germany on the forefront fields of laser and fiber optics. The expression of his art is related strongly to the theme of motion, fluctuation, and the transient property of light.</description>
+    </item>
+    
+  </channel>
+</rss>
