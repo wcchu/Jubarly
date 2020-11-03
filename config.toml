@@ -19,12 +19,16 @@ comments = true
     url = "/artist-statement/"
 
 [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-
-[[menu.main]]
     name = "Categories"
     url = "/categories/"
+
+[[menu.main]]
+    name = "Instagram"
+    url = "https://www.instagram.com/jubarlystudio"
+
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
 
 [params]
     # description = "Jubarly Studio"
@@ -37,17 +41,17 @@ comments = true
     logo = "images/profile_pic_3.jpg"
     hideHUGOSupport = true
 
-    twitterName = "weichunchu01"
-    instagramName = "jubarlystudio"
-    githubName = "wcchu"
+    # twitterName = "weichunchu01"
+    # instagramName = "jubarlystudio"
+    # githubName = "wcchu"
 
     # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
     # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
     # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
     hjsStyle = "default"
 
-[param.social]
-    github  = "https://github.com/wcchu"
-    twitter = "https://twitter.com/weichunchu01"
-    instagram = "https://www.instagram.com/jubarlystudio"
-    soundcloud = "https://soundcloud.com/wcchu"
+# [param.social]
+    # github  = "https://github.com/wcchu"
+    # twitter = "https://twitter.com/weichunchu01"
+    # instagram = "https://www.instagram.com/jubarlystudio"
+    # soundcloud = "https://soundcloud.com/wcchu"
