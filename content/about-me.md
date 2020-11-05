@@ -1,8 +1,8 @@
 ---
-title: About
+title: About me
 author: ~
 date: '2020-11-02'
-slug: about
+slug: about-me
 comments: no
 image: ''
 menu: ''

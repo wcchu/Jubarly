@@ -11,8 +11,8 @@ enableEmoji = true
 comments = true
 
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "About Me"
+    url = "/about-me/"
 
 [[menu.main]]
     name = "Artist Statement"
