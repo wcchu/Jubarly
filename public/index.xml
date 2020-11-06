@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jubarly Studio</title>
+    <link>/</link>
+    <description>Recent content on Jubarly Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved - 2020</copyright>
+    <lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>/about-me/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about-me/</guid>
+      <description>Dr. Wei-Chun Chu is a visual artist working and living in Berlin.
+Chu was born in Taipei, Taiwan. He developed a great interest in both art and science since childhood. At age of 18 he went to study physics at National Taiwan University. An year later he joined the university&amp;rsquo;s Fine Art Club and study oil painting under several tutors, including celebrity painter and songwriter Yu-Wei Hsieh and Chang-Lun Lin of the Rembrandt Art Studio in Taipei.</description>
+    </item>
+    
+    <item>
+      <title>First post</title>
+      <link>/post/2020-10-23-first-post/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-10-23-first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artist statement</title>
+      <link>/artist-statement/</link>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/artist-statement/</guid>
+      <description>As a visual artist, my greatest interest is to explore different light effects such as transmission, reflection, diffusion etc, in both the objective and the abstract settings. In the objective setting, the primary theme of my works is the urban life in Berlin. With such a specific geographic scope, the aim is to capture the atmosphere and people&amp;rsquo;s daily activities, and very importantly, the rapid transformation of the look of the city itself.</description>
+    </item>
+    
+  </channel>
+</rss>
