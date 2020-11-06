@@ -1,6 +1,6 @@
 theme = "hugo-theme-casper"
 BaseUrl = "/"
-publishDir = "html/"
+publishDir = "public/"
 LanguageCode = "en-us"
 Title = "Jubarly Studio"
 paginate = 5
