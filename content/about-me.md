@@ -9,6 +9,8 @@ menu: ''
 share: yes
 ---
 
+![](/images/profile_pic_5_cherry.jpg)
+
 Dr. Wei-Chun Chu is a visual artist working and living in Berlin.
 
 Chu was born in Taipei, Taiwan. He developed a great interest in both art and science since childhood. At age of 18 he went to study physics at National Taiwan University. An year later he joined the university's Fine Art Club and study oil painting under several tutors, including celebrity painter and songwriter [Yu-Wei Hsieh](https://w.wiki/i6g) and Chang-Lun Lin of the Rembrandt Art Studio in Taipei. After university, Chu took the compulsory military service in Taiwan's National Army. During this time he developed an enthusiasm in photography and trained his eyes and skills to make landscape and journalistic photographs.
