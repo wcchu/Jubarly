@@ -11,7 +11,7 @@ menu: ''
 share: yes
 ---
 
-In the wall area above the bed's headboard in our bedroom, FC and I currently have a 50 cm by 40 cm painting hanging on the wall. It looks like this:
+Above the bed's headboard in our bedroom, FC and I currently hang a small painting on the wall. It's a 50 cm by 40 cm oil painting that I made in 2019. It looks like this:
 
 ![](/images/current-wall-above-headboard.jpg)
 *An oil painting by myself (Spree at Night - oil on canvas, 50 cm x 40 cm, [link to Instagram](https://www.instagram.com/p/BxKQx0enx7m/?utm_source=ig_web_copy_link)) is hanging on the wall above our headboard.*
