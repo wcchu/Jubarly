@@ -29,4 +29,4 @@ Then I painted the large canvas using the same colors. The sea part is done and 
 
 We are not totally satisfied with how the fish look in the small version. They are positioned too close and the line they form is too straight. It feels stiff and unnatural. But that's something we can try out ourselves later on the large canvas when having the cut fish at hand.
 
-In general, a decorative artwork means a boring artwork. I think it's true in our case as well, but we don't mind it being "boring", because it's something on top of the bed, to be seen every night at bedtime. We want it to be large and sharp enough to fit the size and the whiteness of the wall, but calm and quiet enough to make a relaxing environment.
+In general, a decorative artwork means a boring artwork. I think it's true in our case as well, but we don't mind it being "boring", because it's something right above the bed, to be seen every night at bedtime. We want it to be large and sharp enough to fit the size and the whiteness of the wall, but calm and quiet enough to make a relaxing environment.
