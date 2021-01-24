@@ -3,7 +3,7 @@ title: Deep blue sea above the headboard
 author: ~
 date: '2021-01-24'
 slug: ["deep-blue-sea-above-headboard"]
-categories: ["artworks"]
+categories: ["oil painting"]
 tags: ["artwork", "decoration", "oilpainting", "sea", "fish", "bed", "headboard", "bedroom"]
 comments: yes
 image: ''
@@ -20,9 +20,9 @@ About a year ago, we started to have the idea of changing it to a larger paintin
 
 At the beginning of this year, an image emerged in our mind. We would paint the whole thing blue like a view under the sea looking up. There would be some bright light coming from above the sea to give it a sense of space. We would add some fish in gold and let it flow across the canvas.
 
-Because the size of the painting is quite large, we made a small version of it on paper first, as a reference. The paper is for oil so the colors of the small version could be as true as possible to the real one. We cut fish shapes out of a golden glossy paper and glue them to the picture.
+Because the size of the painting is quite large, we made a small version of it on paper first, as a reference. We painted the small version with oil colors first, then cut fish shapes out of a golden glossy paper and glue them to the surface.
 
-Then I painted the large canvas. The blue part is done and we are waiting for the paint to dry. Its current state is shown in the picture below. The next will be cutting and pasting fish on it after the paint dries.
+Then I painted the large canvas using the same colors. The sea part is done and we are waiting for the paint to dry. Its current state is shown in the picture below. The next will be cutting and pasting fish on it after the paint dries.
 
 ![](/images/deep-blue-sea-fish.jpg)
 *We are creating a large painting on canvas following the small version on paper.*
