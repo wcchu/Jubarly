@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bedroom on Jubarly Studio</title>
-    <link>/tags/bedroom/</link>
-    <description>Recent content in bedroom on Jubarly Studio</description>
+    <title>artworks on Jubarly Studio</title>
+    <link>/categories/artworks/</link>
+    <description>Recent content in artworks on Jubarly Studio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All rights reserved - 2020</copyright>
-    <lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/bedroom/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/artworks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deep blue sea above the headboard</title>
       <link>/post/2021-01-24-deep-blue-sea-above-the-headboard/</link>

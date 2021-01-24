@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/art-works/</loc>
+    <loc>/tags/artwork/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/artwork/</loc>
+    <loc>/categories/artworks/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url>
   
