@@ -11,7 +11,7 @@ share: yes
 
 <!-- theme -->
 
-As a visual artist, my greatest interest is to explore different light effects such as transmission, reflection, diffusion etc, in both the objective and the abstract settings. In the objective setting, the primary theme of my works is the urban life in Berlin. With such a specific geographic scope, the aim is to capture the atmosphere and people's daily activities, and very importantly, the rapid transformation of the look of the city itself. My secondary theme is fantasy and sci-fi. I enjoy very much to arrange staged scenes where imaginary characters and lighting can be convincingly real, and can even imply a complex world behind it. In the abstract setting, I am interested in incorporating sketching and manga techniques, such as contouring, hatching, and many symbolic expressions typically used in mangas, into oil painting. The goal here is to use a layer of comic "punctuations" to redirect the mood of an otherwise neutral or even decorative abstract painting.
+As a visual artist, my greatest interest is to explore different light effects such as transmission, reflection, diffusion etc, in both representational and non-representational settings. In the representational setting, the primary theme of my works is the modern life of our time, especially in Berlin. With such a specific geographic scope, the aim is to capture the atmosphere and people's daily activities, and very importantly, the rapid transformation of the look of the city itself. My secondary theme is fantasy and sci-fi. I enjoy very much to arrange staged scenes where imaginary characters and lighting can be convincingly real, and can even imply a complex world behind it. In abstract art, I am interested in incorporating sketching and manga techniques, such as contouring, hatching, and even the symbolic facial or emotional expressions, into oil painting. The goal here is to use a layer of comic "punctuations" to redirect the mood of an otherwise superficial or voiceless painting.
 
 <!-- decorative abstract from fashion -->
 
@@ -23,7 +23,7 @@ As a visual artist, my greatest interest is to explore different light effects s
 
 <!-- materials and media -->
 
-Regarding the materials and the media of my works, I spend the majority of my time in oil painting, when at the same time adding works of watercolor, gouache, and digital painting in my collection. Recently I started experimenting oil painting on unconventional materials such as plastic cards, glossy paper boards, and metals, which hopefully will bring another dimension of expressively to my works.
+Regarding the materials and the media of my works, I spend the majority of my time in oil painting, when at the same time adding works of watercolor, gouache, printing and digital painting in my collection. Recently I started experimenting oil painting on unconventional materials such as plastic cards, glossy paper boards, and metals, which hopefully will bring another dimension of expressively to my works.
 
 <!-- plan for next several months -->
 
