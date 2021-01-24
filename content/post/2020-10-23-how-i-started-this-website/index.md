@@ -1,8 +1,8 @@
 ---
-title: How I started this website
+title: About this website
 author: ~
 date: '2020-10-23'
-slug: ["how-i-started-this-website"]
+slug: ["about-this-website"]
 categories: ["general"]
 tags: ["blog", "website", "blogdown", "hugo", "google", "firebase", "dns"]
 comments: yes
