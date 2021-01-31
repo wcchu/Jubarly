@@ -3,7 +3,7 @@ title: Deep blue sea above the headboard
 author: ~
 date: '2021-01-24'
 slug: ["deep-blue-sea-above-headboard"]
-categories: ["oil painting"]
+categories: ["artworks"]
 tags: ["artwork", "decoration", "oilpainting", "sea", "fish", "bed", "headboard", "bedroom"]
 comments: yes
 image: ''
