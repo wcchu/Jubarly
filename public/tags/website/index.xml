@@ -7,16 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All rights reserved - 2020</copyright>
-    <lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About this website</title>
-      <link>/post/2020-10-23-how-i-started-this-website/</link>
-      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      <title>Website is ready</title>
+      <link>/post/website-ready/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020-10-23-how-i-started-this-website/</guid>
-      <description>(Under construction)
-This post is about this website. I&amp;rsquo;ll include the following parts:
- How the idea of having an artist website/blog came to be What tools and technologies I used to create it  </description>
+      <guid>/post/website-ready/</guid>
+      <description>Today I finally figured out why I always got an error message when trying to configure the &amp;ldquo;custom resource records&amp;rdquo; in Google Domains&#39; DNS. I found this post and did the same mistake of overlooking a plus sign. I&amp;rsquo;ve just fixed it and now my website https://jubarlystudio.com/ is finally online.
+I also added a top level post which is a short summary of this site: About this website.</description>
     </item>
     
   </channel>

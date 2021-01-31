@@ -15,6 +15,10 @@ comments = true
     url = "/about-me/"
 
 [[menu.main]]
+    name = "About This Website"
+    url = "/about-this-website/"
+
+[[menu.main]]
     name = "Artist Statement"
     url = "/artist-statement/"
 
