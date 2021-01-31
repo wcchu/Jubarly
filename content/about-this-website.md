@@ -1,11 +1,9 @@
 ---
 title: About this website
 author: ~
-date: '2020-10-23'
-slug: ["about-this-website"]
-categories: ["general"]
-tags: ["blog", "website", "blogdown", "hugo", "google", "firebase", "dns"]
-comments: yes
+date: '2021-01-31'
+slug: about-this-website
+comments: no
 image: ''
 menu: ''
 share: yes
