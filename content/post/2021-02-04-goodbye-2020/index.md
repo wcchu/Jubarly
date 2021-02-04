@@ -1,5 +1,5 @@
 ---
-title: Goodbye 2020
+title: Goodbye 2020 - New Year's cards for 2021
 author: ~
 date: '2021-02-04'
 slug: "goodbye-2020"
@@ -11,5 +11,12 @@ menu: ''
 share: yes
 ---
 
-![](/images/new_years_cards_2021.jpg)
-*Group photo of the New Year's cards.*
+![](/images/goodbye-2020/cover.jpg)
+*Cover.*
+
+![](/images/goodbye-2020/page.jpg)
+*Page.*
+
+![](/images/goodbye-2020/group.jpg)
+*Group photo.*
+
