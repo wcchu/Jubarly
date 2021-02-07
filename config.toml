@@ -36,7 +36,7 @@ comments = true
 
 [params]
     # description = "Jubarly Studio"
-    cover = "images/profile/sun-moon_lake.jpg"
+    cover = "images/profile/erlangen.jpg"
 
     author = "Jubarly Studio"
     authorlocation = "Berlin, Germany"
