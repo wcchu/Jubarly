@@ -36,13 +36,13 @@ comments = true
 
 [params]
     # description = "Jubarly Studio"
-    cover = "images/sun-moon_lake.jpg"
+    cover = "images/profile/sun-moon_lake.jpg"
 
     author = "Jubarly Studio"
     authorlocation = "Berlin, Germany"
     # googleAnalyticsUserID = "UA-79101-12"
 
-    logo = "images/portrait_of_baby.jpg"
+    logo = "images/profile/portrait_of_baby.jpg"
     hideHUGOSupport = true
 
     # twitterName = "weichunchu01"
