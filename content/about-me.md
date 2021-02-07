@@ -9,7 +9,7 @@ menu: ''
 share: yes
 ---
 
-![](/images/profile_pic_5_cherry.jpg)
+![](/images/profile/profile_pic_5_cherry.jpg)
 
 Dr. Wei-Chun Chu is a visual artist working and living in Berlin.
 
