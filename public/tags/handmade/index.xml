@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>handmade on Jubarly Studio</title>
+    <link>/tags/handmade/</link>
+    <description>Recent content in handmade on Jubarly Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved - 2020</copyright>
+    <lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/handmade/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Goodbye 2020 - New Year&#39;s cards for 2021</title>
+      <link>/post/goodbye-2020/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/goodbye-2020/</guid>
+      <description>Almost every year, FC and I make Christmas or New Year&amp;rsquo;s cards for families and friends. At the end of 2020, when we tried to think through it retrospectively for design inspirations, the year seemed so dominated by Covid to the extent that not much else were there to talk about. Our only memorable part of 2020 was the summer months between the first wave and the second wave of the outbreak, when the situation was relatively calm, and we squeezed in two short trips to the Mediterranean Sea.</description>
+    </item>
+    
+  </channel>
+</rss>
