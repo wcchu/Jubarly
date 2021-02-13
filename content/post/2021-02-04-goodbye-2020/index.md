@@ -13,9 +13,11 @@ share: yes
 
 Almost every year, FC and I make Christmas or New Year's cards for families and friends. At the end of 2020, when we tried to think through it retrospectively for design inspirations, the year seemed so dominated by Covid to the extent that not much else was there to talk about. Our only memorable part of 2020 was the summer months between the first wave and the second wave of the outbreak, when the situation was relatively calm, and we squeezed in two short trips to the Mediterranean Sea. Even when we thought about 2021, our wishes were all about this pandemic--we just wanted it gone and never coming back again. That's all for the inspiration. We just chose Covid as the theme of the cards.
 
-Let's first go straight to the end result. Here is the group photo of all the cards:
+Let's first go straight to the end result:
+
 ![](/images/2021-02-04-goodbye-2020/group-prepare.jpg)
 *Preparation for taking a group photo.*
+
 ![](/images/2021-02-04-goodbye-2020/group.jpg)
 *Group photo of the final products.*
 
