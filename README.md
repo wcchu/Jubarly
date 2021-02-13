@@ -1,7 +1,9 @@
 # Jubarly
 Jubarly Studio blogdown codes
 
-# TODO:
-# - add link to website
-# - add link to blogdown
-# - how to deploy
+## Website
+https://jubarlystudio.com
+
+## References
+- Github page of Blogdown https://github.com/rstudio/blogdown
+- Documentation of Blogdown https://bookdown.org/yihui/blogdown
