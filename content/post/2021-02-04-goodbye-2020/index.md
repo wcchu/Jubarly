@@ -16,22 +16,22 @@ Almost every year, FC and I make Christmas or New Year's cards for families and 
 Let's first go straight to the end result:
 
 ![](/images/2021-02-04-goodbye-2020/group-prepare.jpg)
-*Preparation for taking a group photo.*
+*The preparation for taking a group photo.*
 
 ![](/images/2021-02-04-goodbye-2020/group.jpg)
-*Group photo of the final products.*
+*The group photo of the final products.*
 
 The cover looks like this:
 ![](/images/2021-02-04-goodbye-2020/cover.jpg)
-*Cover of a sample card. The message is "Goodbye 2020".*
+*The cover of a sample card. The message is "Goodbye 2020".*
 
 The inner page, which is right on the back to the cover, looks like this:
 ![](/images/2021-02-04-goodbye-2020/page.jpg)
-*Inner page of a sample card. The message is "Hello 2021".*
+*The inner page of a sample card. The message is "Hello 2021".*
 
 The design of this card is to capture the (wishful) transition from 2020 to 2021, from Covid to non-Covid. The colorful ball on the cover is, very obviously, a virus particle. In the picture, it is being destroyed by a strong gust of wind that sends the virus' spikes off into the air. These spikes are just like the pappus of a dandelion flower, blown away by the wind. Under the virus' surface, the earth is recovering, revealing its healthy green and blue, while the toxic foam is fading away. What a great message to use to send off 2020! The inner page is cheerful and conceptually simpler, with a "hello 2021" decorated by flowers and ivies.
 
-The implementation of this work had two main processes--printing and painting. Our typical trick of making cards is to print the main body so we can mass produce, and to paint on top of it for customization. We have made cards this way several times and it works well. For this work, we made three rubber stamps, one for the virus on the cover, one for "hello 2021" with the ivies, and one for the orange flowers. We used watercolor and some acrylic paint for the color, and a gold ball pen for accentuation. One special technique we used on the virus body was we sprinkled salt on it when the paint was still wet. The salt bleached away some colors and left very fine marks on it, giving a lot of different shades to the same color and creating a very "chemical" texture.
+The implementation of this work had two main processes--printing and painting. Our typical trick of making cards is to print the main body so we can mass produce, and to paint on top of it for customization. We have made cards this way several times and it works well. For this work, we made three rubber stamps, one for the virus on the cover, one for "hello 2021" with the ivies, and one for the orange flowers. After the printing was done, we used watercolor and some acrylic paint for the color, and a gold ball pen for accentuation. One special technique we used on the virus body was we sprinkled salt on it when the paint was still wet. The salt bleached away some colors and left very fine marks on it, giving a lot of different shades to the same color and creating a very "chemical" texture.
 
 ![](/images/2021-02-04-goodbye-2020/stamps.jpg)
 *The stamps that we made.*
